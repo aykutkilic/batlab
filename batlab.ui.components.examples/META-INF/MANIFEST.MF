@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Examples
-Bundle-SymbolicName: batlab.ui.components.examples
+Bundle-SymbolicName: batlab.ui.controls.examples
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: batlab.ui.components.examples.Activator
 Require-Bundle: org.eclipse.ui,
